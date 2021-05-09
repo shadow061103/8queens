@@ -1,0 +1,13 @@
+C:\Users\KuanFu\source\repos\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.exe
+C:\Users\KuanFu\source\repos\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.deps.json
+C:\Users\KuanFu\source\repos\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.runtimeconfig.json
+C:\Users\KuanFu\source\repos\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.runtimeconfig.dev.json
+C:\Users\KuanFu\source\repos\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.dll
+C:\Users\KuanFu\source\repos\8queens\8queens\bin\Debug\netcoreapp3.1\8queens.pdb
+C:\Users\KuanFu\source\repos\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.csprojAssemblyReference.cache
+C:\Users\KuanFu\source\repos\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.AssemblyInfoInputs.cache
+C:\Users\KuanFu\source\repos\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.AssemblyInfo.cs
+C:\Users\KuanFu\source\repos\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.csproj.CoreCompileInputs.cache
+C:\Users\KuanFu\source\repos\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.dll
+C:\Users\KuanFu\source\repos\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.pdb
+C:\Users\KuanFu\source\repos\8queens\8queens\obj\Debug\netcoreapp3.1\8queens.genruntimeconfig.cache
